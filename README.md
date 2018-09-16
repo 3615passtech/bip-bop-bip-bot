@@ -70,7 +70,7 @@ General philosophy:
 
 ### v0.8:
 
-- Use Pole Emploie API https://www.emploi-store-dev.fr/portail-developpeur-cms/home/catalogue-des-api/documentation-des-api/api-retouralemploiformation-### v1.html
+- Use Pole Emploie API <https://www.emploi-store-dev.fr/portail-developpeur-cms/home/catalogue-des-api/documentation-des-api/api-retouralemploiformation-### v1.html>
 
 ### v0.9:
 
@@ -101,6 +101,15 @@ General philosophy:
 ### v1.5:
 
 - Implement adaptive tests (like Akhenator) to find the most accurate questions order
+
+### v1.6:
+
+- Try more complex learning approches using https://lobe.ai/
+
+### v1.7:
+
+- Integrate Apple Business Chat https://developer.apple.com/business-chat/
+
 
 
 ## Functionnal Specifications
