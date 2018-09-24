@@ -70,7 +70,7 @@ General philosophy:
 
 ### v0.8:
 
-- Use Pole Emploie API <https://www.emploi-store-dev.fr/portail-developpeur-cms/home/catalogue-des-api/documentation-des-api/api-retouralemploiformation-### v1.html>
+- Use Pole Emploie API <https://www.emploi-store-dev.fr/portail-developpeur-cms/home/catalogue-des-api/documentation-des-api/api-retouralemploiformation-###%20v1.html>
 
 ### v0.9:
 
@@ -78,21 +78,23 @@ General philosophy:
 
 ### v1.0:
 
-- Create a minimalist web admin interface to reach user filtered on accurate criteria, for example “users living in Paris AND unemployed”
-- Write specs to define the way of an OF can have access to their current or past learners
+- Create a minimalist web admin interface for us to easily reach users filtered on accurate criteria, for example “users living in Paris AND unemployed”
+- Write specs to define the way of an OF can have access to their current or past learners database : "for instance, which infos would we give or not to an OF about one or many alumnis ?"
 
 ### v1.1:
 
-- Standardize the way of the OF alumni and feedback interview database can be associated
+- Standardize the way of the OF alumni and feedback interview database can be associated : "Could an OF give us access to his alumni database and how it is interesting...?"
 
 ### v1.2:
 
-- Implement a statistic decision three algorithm on our database
+- Implement a statistic decision three algorithm on our database 
+  - Question : how many data ? bootstapping ?
 - Use A/B testing to check the accuracy of the method comparing the static one
 
 ### v1.3:
 
-- Optimization exploration using Radom Forest, Bosting or Badging, etc.
+- Optimization exploration using Random Forest/Bagging, Bosting, etc.
+  - (the real machine learning stuff, could be fun to understand)
 
 ### v1.4:
 
