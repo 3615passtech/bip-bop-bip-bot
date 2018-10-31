@@ -31,7 +31,7 @@ General philosophy:
 - [x] Subscribe the bot as an app in Facebook Developer Console
 - [x] Handling Facebook Messenger messages
 - [x] The bot asks the same questions than TypeForm (https://nicolashovart.typeform.com/to/ILIfu6 & https://nicolashovart.typeform.com/to/yw4YBp)
-- [ ] User answers are saved in a Google Sheets table (https://docs.google.com/spreadsheets/d/1C_CWBPawipu7CfW9c14RhqY16Q2RAddRy1pshNh7-80 & https://docs.google.com/spreadsheets/d/1px0QxVZeiUX8bOlWeQF-7Gd015pkQWoFDjLSVGZiThM)
+- [x] User answers are saved in a Google Sheets table (https://docs.google.com/spreadsheets/d/1C_CWBPawipu7CfW9c14RhqY16Q2RAddRy1pshNh7-80 & https://docs.google.com/spreadsheets/d/1px0QxVZeiUX8bOlWeQF-7Gd015pkQWoFDjLSVGZiThM)
 - [x] The bot doesn’t suggest a training at the end of the form
 - [x] The technology used is https://labs.typeform.com/cui/
 
