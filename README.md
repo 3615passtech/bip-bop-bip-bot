@@ -28,21 +28,21 @@ General philosophy:
 
 ### v0.1:
 
-- Subscribe the bot as an app in Facebook Developer Console
-- Handling Facebook Messenger messages
-- The bot asks the same questions than TypeForm (https://nicolashovart.typeform.com/to/ILIfu6 & https://nicolashovart.typeform.com/to/yw4YBp)
-- User answers are saved in a Google Sheets table (https://docs.google.com/spreadsheets/d/1C_CWBPawipu7CfW9c14RhqY16Q2RAddRy1pshNh7-80 & https://docs.google.com/spreadsheets/d/1px0QxVZeiUX8bOlWeQF-7Gd015pkQWoFDjLSVGZiThM)
-- The bot doesn’t suggest a training at the end of the form
-- The technology used is https://labs.typeform.com/cui/
+- [x] Subscribe the bot as an app in Facebook Developer Console
+- [x] Handling Facebook Messenger messages
+- [x] The bot asks the same questions than TypeForm (https://nicolashovart.typeform.com/to/ILIfu6 & https://nicolashovart.typeform.com/to/yw4YBp)
+- [ ] User answers are saved in a Google Sheets table (https://docs.google.com/spreadsheets/d/1C_CWBPawipu7CfW9c14RhqY16Q2RAddRy1pshNh7-80 & https://docs.google.com/spreadsheets/d/1px0QxVZeiUX8bOlWeQF-7Gd015pkQWoFDjLSVGZiThM)
+- [x] The bot doesn’t suggest a training at the end of the form
+- [x] The technology used is https://labs.typeform.com/cui/
 
 ### v0.2:
 
-- The bot answers a top 3 of suggested training at the end of the conversation
-- Questions are the same for all users and are asked in the same order
-- A quick specification draft of the user path can be found here https://github.com/3615passtech/bip-bop-bip-bot/wiki/Functionnal-Specifications
-- The suggestion given to user is hardcoded through a decision three
-- The bot store questions asked by users in a Firebase DB
-- The technology used is https://chatfuel.com/
+- [ ] The bot answers a top 3 of suggested training at the end of the conversation
+- [x] Questions are the same for all users and are asked in the same order
+- [x] A quick specification draft of the user path can be found here https://github.com/3615passtech/bip-bop-bip-bot/wiki/Functionnal-Specifications
+- [ ] The suggestion given to user is hardcoded through a decision three
+- [ ] The bot store questions asked by users in a Firebase DB
+- [x] The technology used is https://chatfuel.com/
 
 ### v0.3:
 
