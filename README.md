@@ -117,3 +117,5 @@ General philosophy:
 ## Functionnal Specifications
 
 _~> https://github.com/3615passtech/bip-bop-bip-bot/wiki/Functionnal-Specifications_
+
+_~> Decisions tree : https://realtimeboard.com/app/board/o9J_kyqBsSE=/_  
