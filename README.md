@@ -16,4 +16,4 @@ ruby main.rs
 ngrok http 4567
 ```
 
-You can test without sending SMS simply by using [http://localhost:4567/sms?Body="Hello PassTech"](http://localhost:4567/sms?Body="Hello%20PassTech") url!
+(WIP) You can test without sending SMS simply by using [http://localhost:4567/sms?Body="Hello PassTech"](http://localhost:4567/sms?Body="Hello%20PassTech") url!
